@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career Guidance System
 
 A simple Career Guidance System developed using Python and Streamlit.
@@ -25,3 +26,7 @@ A simple Career Guidance System developed using Python and Streamlit.
 
 ```bash
 pip install -r requirements.txt
+=======
+# Career-Guidance-System
+A Career Guidance System built with Python and Streamlit that recommends suitable career paths based on students' skills, interests, and education. 
+>>>>>>> 0f10083fbaa7e9309ce666785e0c163af60717a5
